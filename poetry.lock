@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Cross-platform windowing and multimedia library"
+name = "pyglet"
+optional = false
+python-versions = "*"
+version = "1.5.15"
+
+[metadata]
+content-hash = "522490e0db7f6f8fec2fc1e7cd7f6f5b8b98600ac74af345ca032874eb4c7cc7"
+python-versions = "^3.8"
+
+[metadata.files]
+pyglet = [
+    {file = "pyglet-1.5.15-py3-none-any.whl", hash = "sha256:4401cc176580e4e17e2df8bbf7536f27e691327dc3f38f209a12f1859c70aed2"},
+    {file = "pyglet-1.5.15.zip", hash = "sha256:da9d8337388cedabf1f1c5dc21a45bb2b0e5327fba47f996c8573818c3dfa478"},
+]

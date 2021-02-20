@@ -1,0 +1,2 @@
+language = "python3"
+run = "if python -c 'import pyglet'; then cd src; python3 main.py; else pip install pyglet; cd src; python main.py; fi"

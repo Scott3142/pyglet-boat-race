@@ -1,3 +1,5 @@
+
+
 import pyglet
 
 #background image
@@ -10,5 +12,5 @@ pyglet.gl.glClearColor(0,0,1,1)
 def on_draw():
     window.clear()
 
-
-pyglet.app.run()
+def play():
+  pyglet.app.run()
