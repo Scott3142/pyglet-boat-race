@@ -25,7 +25,7 @@ You will need to install the `pyglet` Python library via `pip install pyglet` on
 
 ## Execution
 
-The game can be played by executing the command `python src/<file-name>.py`.
+The game can be played by executing the command `python src/main.py` or by simply hitting 'Run' in [Repl.it](https://repl.it/).
 
 ## Contact
 
