@@ -10,10 +10,10 @@ The structure of this repository is as follows:
 .
 +-- README.md
 +-- src
-|   +-- tut-1.py
-|   +-- tut-2.py
-|   +-- tut-3.py
-|   +-- tut-4.py
+|   +-- tut_1_window.py
+|   +-- tut_2_boat.py
+|   +-- tut_3_movement.py
+|   +-- tut_4_mechanics.py
 +-- assets
 |   +-- boat.png
 ```
